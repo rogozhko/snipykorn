@@ -1,6 +1,8 @@
 snipykorn. run snippets faster right now!
 
-for build run build.py
+build:
+1. pip install pyqt5 pyinstaller
+2. python build.py
 
 config saves into: C:\Users\user_name\AppData\Roaming\snipykorn
 
